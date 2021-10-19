@@ -1,12 +1,12 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Virginie [<img align="right" alt="virginie-lemaire | linkedIn" width="22px" src="./linkedin.svg" />][linkedin] [<img align="right" alt="feerepart | Twitter" width="22px" src="./twitter.svg" />][twitter]
 
-I'm a french future web developper, living near Nancy, in the east of France.
+I'm a french back-end web developper, living near Nancy, in the east of France.
 
-- 🌱 I’m currently learning web development (JavaScript with Nodejs, Express, PostgreSQL...) with the [O'Clock full remote school](https://oclock.io/), promo Uther (intensive study, 798H). I choosed the back-end specialty to go further (and I'll study front-end alone)
-- 🔭 I’m currently praticing API with my [API My Grocery list](https://github.com/VirginieLemaire/My-grocery-list) and reading blogs about security
+- 🌱 I’ve just finished learning web development (JavaScript with Nodejs, Express, PostgreSQL...) with [O'Clock full remote school](https://oclock.io/), promo Uther (intensive study, 798H). I choosed the back-end specialty to go further (and I'll study front-end alone).
+- 🖥️ I coded [DEV Interest](https://devinterest.surge.sh/) for the last 4 weeks with 4 of my wonderfull classmates, still full remote work \o/ (it was great). It was time to practice our new skills! I was one of the two back-end developpers.
+- 🔭 Now I have more time, I'll be back praticing API with my [API My Grocery list](https://github.com/VirginieLemaire/My-grocery-list) and reading blogs about security
+- 📜 I also 've got to prepare the "Titre Pro Développeur Web et Web Mobile"
 
-<img align="center" src="https://media.giphy.com/media/qQRfz2VfUbDeebczif/giphy.gif" width="70px" /> 
-For the next 4 weeks I'll be working on a very exciting project with 4 of my wonderfull classmates, still full remote work \o/ (can't wait). Time practice !
 
 ## 📚 I've learned 🛠
 
@@ -19,13 +19,12 @@ For the next 4 weeks I'll be working on a very exciting project with 4 of my won
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql&color=ffffff)
 
 
-### ... that I use with
+### ... I can use them with
 
-![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=nodedotjs&color=ffffff)
+![Node.js](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=nodedotjs&color=ffffff)
 ![Expressjs](https://img.shields.io/badge/-express-black?style=for-the-badge&logo=express&logoColor=grey&color=ffffff)
 ![Sequelize](https://img.shields.io/badge/-sequelize-black?style=for-the-badge&logo=sequelize&color=ffffff)
 ![Npm packages](https://img.shields.io/badge/-npm-black?style=for-the-badge&logo=npm&color=ffffff)
-
 
 
 ## 🔎 I'am discovering
@@ -44,5 +43,5 @@ For the next 4 weeks I'll be working on a very exciting project with 4 of my won
 </p>
 
 <!--reference links-->
-[linkedin]: https://www.linkedin.com/virginie-lemaire
+[linkedin]: https://www.linkedin.com/in/virginie-lemaire
 [twitter]: https://twitter.com/feerepart
