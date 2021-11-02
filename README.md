@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Virginie [<img align="right" alt="virginie-lemaire | linkedIn" width="22px" src="./linkedin.svg" />][linkedin] [<img align="right" alt="feerepart | Twitter" width="22px" src="./twitter.svg" />][twitter]
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <span style="color:#0ac3a7">Hi, I'm Virginie</span> [<img align="right" alt="virginie-lemaire | linkedIn" width="22px" src="./linkedin.svg" />][linkedin] [<img align="right" alt="feerepart | Twitter" width="22px" src="./twitter.svg" />][twitter]
 
 I'm a french back-end web developper, living near Nancy, in the east of France.
 
@@ -10,7 +10,7 @@ I'm a french back-end web developper, living near Nancy, in the east of France.
 
 ## 📚 I've learned 🛠
 
-### 🤖 Languages ...
+### <span style="color:#0ac3a7; font-style:italic">🤖 Languages ...
 
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&color=ffffff)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=2bcbba&color=ffffff)
@@ -18,8 +18,7 @@ I'm a french back-end web developper, living near Nancy, in the east of France.
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&color=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql&color=ffffff)
 
-
-### ... I can use them with
+### <span style="color:#0ac3a7; font-style:italic">... I can use them with</span>
 
 ![Node.js](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=nodedotjs&color=ffffff)
 ![Expressjs](https://img.shields.io/badge/-express-black?style=for-the-badge&logo=express&logoColor=grey&color=ffffff)
@@ -39,9 +38,9 @@ I'm a french back-end web developper, living near Nancy, in the east of France.
 ## Activity on Github
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirginieLemaire&count_private=true&border_radius=10px&show_icons=true&card_width=350px&bg_color=FDEFF&border_color=1e90FF&title_color=1e90FF&text_color=1e272e&custom_title=Languages I use the most" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirginieLemaire&count_private=true&border_radius=10px&show_icons=true&card_width=350px&bg_color=FDEFF&border_color=0ac3a7&title_color=0ac3a7&text_color=1e272e&custom_title=Most used languages&langs_count=10&layout=compact" />
 </p>
 
 <!--reference links-->
-[linkedin]: https://www.linkedin.com/in/virginie-lemaire
+[linkedin]: https://www.linkedin.com/virginie-lemaire
 [twitter]: https://twitter.com/feerepart
