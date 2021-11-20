@@ -2,10 +2,11 @@
 
 I'm a french back-end web developper, living near Nancy, in the east of France.
 
-- 🌱 I’ve just finished learning web development (JavaScript with Nodejs, Express, PostgreSQL...) with [O'Clock full remote school](https://oclock.io/), promo Uther (intensive study, 798H). I choosed the back-end specialty to go further (and I'll study front-end alone).
-- 🖥️ I coded [DEV Interest](https://devinterest.surge.sh/) for the last 4 weeks with 4 of my wonderfull classmates, still full remote work \o/ (it was great). It was time to practice our new skills! I was one of the two back-end developpers.
+- 🌱 I’ve just finished learning web development (JavaScript with Nodejs, Express, PostgreSQL...) with [O'Clock full remote school](https://oclock.io/), promo Uther (intensive study, 798H). 
+I chose the back-end specialty to go further and I really loved it (I'll study more front-end by myself).
+- 🖥️ I coded [DEV Interest](https://devinterest.surge.sh/) in 4 weeks with 4 of my wonderfull classmates, still full remote work \o/ (it was great). It was time to practice our new skills! I was one of the two back-end developpers.
 - 🔭 Now I have more time, I'll be back praticing API with my [API My Grocery list](https://github.com/VirginieLemaire/My-grocery-list) and reading blogs about security
-- 📜 I also 've got to prepare the "Titre Pro Développeur Web et Web Mobile"
+- 📜 I'm preparing my presentation and documents for the "Titre Pro Développeur Web et Web Mobile".
 
 
 ## 📚 I've learned 🛠
