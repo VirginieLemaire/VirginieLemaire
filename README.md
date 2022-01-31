@@ -5,8 +5,8 @@ I'm a french back-end web developper, living near Nancy, in the east of France.
 - 🌱 I’ve just finished learning web development (JavaScript with Nodejs, Express, PostgreSQL...) with [O'Clock full remote school](https://oclock.io/), promo Uther (intensive study, 798H). 
 I chose the back-end specialty to go further and I really loved it (I'll study more front-end by myself).
 - 🖥️ I coded [DEV Interest](https://devinterest.surge.sh/) in 4 weeks with 4 of my wonderfull classmates, still full remote work \o/ (it was great). It was time to practice our new skills! I was one of the two back-end developpers.
-- 🔭 Now I have more time, I'll be back praticing API with my [API My Grocery list](https://github.com/VirginieLemaire/My-grocery-list) and reading blogs about security
-- 📜 I've just present the "Titre Pro Développeur Web et Web Mobile": waiting for the answer ;) Now I'm preparing the Opquast certification.
+- 🔭 I begin learning React with practice and I sometimes switch praticing API with my [API My Grocery list](https://github.com/VirginieLemaire/My-grocery-list).
+- 📜 I have the "Titre Pro Développeur Web et Web Mobile" and the Opquast certification, level advanced.
 
 
 ## 📚 I've learned 🛠
@@ -27,7 +27,7 @@ I chose the back-end specialty to go further and I really loved it (I'll study m
 ![Npm packages](https://img.shields.io/badge/-npm-black?style=for-the-badge&logo=npm&color=ffffff)
 
 
-## 🔎 I'am discovering
+## 🔎 I discovered and may practice in projects
 
 ![pug](https://img.shields.io/badge/Pug-black?style=for-the-badge&logo=pug&color=ffffff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB&color=ffffff)
