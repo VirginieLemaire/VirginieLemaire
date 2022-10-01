@@ -24,7 +24,10 @@ I chose the back-end specialty to go further and I really loved it (I'll study m
 ![Node.js](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=nodedotjs&color=ffffff)
 ![Expressjs](https://img.shields.io/badge/-express-black?style=for-the-badge&logo=express&logoColor=grey&color=ffffff)
 ![Sequelize](https://img.shields.io/badge/-sequelize-black?style=for-the-badge&logo=sequelize&color=ffffff)
+![React](https://img.shields.io/badge/-react-black?style=for-the-badge&logo=react&logoColor=61DAFB&color=ffffff)
 ![Npm packages](https://img.shields.io/badge/-npm-black?style=for-the-badge&logo=npm&color=ffffff)
+![Jest](https://img.shields.io/badge/-jest-black?style=for-the-badge&logo=jest&logoColor=C21325&color=ffffff)
+![React Testing Library](https://img.shields.io/badge/-Testing%20Library-black?style=for-the-badge&logo=testing-library&logoColor=E3332&color=ffffff)
 
 
 ## 🔎 I discovered and may practice in projects
@@ -38,9 +41,7 @@ I chose the back-end specialty to go further and I really loved it (I'll study m
 
 ## Activity on Github
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirginieLemaire&count_private=true&border_radius=10px&show_icons=true&card_width=350px&bg_color=FDEFF&border_color=0ac3a7&title_color=0ac3a7&text_color=1e272e&custom_title=Most used languages&langs_count=10&layout=compact" />
-</p>
+![VirginieLemaire's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VirginieLemaire&theme=vue&show_icons=true&hide_border=true&layout=compact)
 
 <!--reference links-->
 [linkedin]: https://www.linkedin.com/virginie-lemaire
